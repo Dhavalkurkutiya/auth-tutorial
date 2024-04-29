@@ -20,7 +20,7 @@ export default function Home() {
           🔐 Auth
         </h1>
         <p className="text-white text-lg">
-          A simple authentication service
+        Next Auth v5 - Advanced Guide (2024)
         </p>
         <div>
           <LoginButton  asChild>
